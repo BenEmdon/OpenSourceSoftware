@@ -2,8 +2,22 @@
   <img src=".github/Title.png">
 </center>
 
+
+This project contains the notes from a workshop I am running. All contributions are welcome :heart:
+
 ### Contents
 1. [What is open source software?](#what-is-open-source-software)
+  * [Examples](#examples)
+  * [Why are projects open source?](#why-are-projects-open-source)
+2. [Why should you get started in open source?](#why-should-you-get-started-in-open-source)
+  * [Learn how to contribute](#learn-how-to-contribute)
+  * [Show your expertise](#show-your-expertise)
+  * [Help you get hired](#help-you-get-hired)
+  * [Open source internships](#open-source-internships)
+3. [How to get started in open source on GitHub](#how-to-get-started-in-open-source-on-GitHub)
+  * [Finding where to contribute](#finding-where-to-contribute)
+  * [Forking a project](#forking-a-project)
+  * [Writing a good pull request](#writing-a-good-pull-request)
 
 
 # What is open source software?
@@ -60,7 +74,7 @@ As a student there are some great opportunities to get started in open source. O
 # How to get started in open source on GitHub
 GitHub is the largest open source community in the world. It's also the easiest place to start contributing. The following is a beginners guide on how to start contributing to open source projects.
 
-### Finding where to contribute
+## Finding where to contribute
 Lots of open source projects can seem intimidating. Experience developers create projects that are sometimes complicated and difficult to understand. Sometimes these projects might have some low hanging fruit (easy changes to make). This low hanging fruit is usually a good place to start.
 
 The following are some great places to find some beginner issues:
@@ -81,7 +95,7 @@ The changes you make on your _fork_ can be used to propose changes to the _upstr
 The _upstream_ repository is the original project that you forked.
 
 
-### Writing a good pull request
+## Writing a good pull request
 Writing a good pull request (PR) isn't effortless. Its all about communication. Good pull requests are code proposals that can explain the change to both maintainers and newcomers.
 
 #### Tips for writing a strong pull request:
@@ -103,8 +117,7 @@ Usually, pull requests don't get approved at first glance. Maintainers will ofte
 * [How to write the perfect pull request](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/) (GitHub Blog)
 * [The Art of Pull Requests](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9) (Hackernoon)
 
+# Sources
+* [What is open source?](https://opensource.com/resources/what-open-source) (Opensource.com)
+* [How to write the perfect pull request](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/) (GitHub Blog)
 
-Tips on responding to feedback
-
-### Sources
-* https://opensource.com/resources/what-open-source
