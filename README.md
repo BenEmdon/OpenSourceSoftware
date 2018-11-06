@@ -23,7 +23,7 @@ This project contains the notes from a workshop I am running. All contributions 
 
 
 # What is open source software?
-_"Open Source"_ refers to something people can modify and share because its design is publicly accessible
+_"Open Source"_ refers to something people can modify and share because its design is publicly accessible.
 
 _"Open Source Software"_ is software with source code that anyone can inspect, modify, and enhance.
 
