@@ -69,5 +69,31 @@ The following are some great places to find some beginner issues:
 
 After finding that golden issue that you hope to start working on, be sure to go and understand some of the code base first.
 
+### Writing a good pull request
+Writing a good pull request (PR) isn't effortless. Its all about communication. Good pull requests are code proposals that can explain the change to both maintainers and newcomers.
+
+#### Tips for writing a strong pull request:
+* Write it as a proposal
+* Provide context
+* Add screenshots/diagrams when possible
+* Be clear and concise
+* Keep diffs as small as possible
+
+### Responding to feedback
+Usually, pull requests don't get approved at first glance. Maintainers will often suggest code clean up and changes. Addressing reviewers comments is only way to get your contribution merged.
+
+#### Tips for responding to feedback
+* Consider leading with an expression of appreciation, especially when feedback has been mixed.
+* Ask for clarification. (“I don’t understand, can you clarify?”)
+* Try to respond to every comment.
+* Offer clarification, explain the decisions you made to reach a solution in question.
+
+Strong Resources on how to write good pull requests:
+* [How to write the perfect pull request (GitHub Blog)](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
+* [The Art of Pull Requests (Hackernoon)](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
+
+
+Tips on responding to feedback
+
 ### Sources
 * https://opensource.com/resources/what-open-source
