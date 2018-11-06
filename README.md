@@ -7,17 +7,17 @@ This project contains the notes from a workshop I am running. All contributions 
 
 ### Contents
 1. [What is open source software?](#what-is-open-source-software)
-  * [Examples](#examples)
-  * [Why are projects open source?](#why-are-projects-open-source)
+   * [Examples](#examples)
+   * [Why are projects open source?](#why-are-projects-open-source)
 2. [Why should you get started in open source?](#why-should-you-get-started-in-open-source)
-  * [Learn how to contribute](#learn-how-to-contribute)
-  * [Show your expertise](#show-your-expertise)
-  * [Help you get hired](#help-you-get-hired)
-  * [Open source internships](#open-source-internships)
+   * [Learn how to contribute](#learn-how-to-contribute)
+   * [Show your expertise](#show-your-expertise)
+   * [Help you get hired](#help-you-get-hired)
+   * [Open source internships](#open-source-internships)
 3. [How to get started in open source on GitHub](#how-to-get-started-in-open-source-on-GitHub)
-  * [Finding where to contribute](#finding-where-to-contribute)
-  * [Forking a project](#forking-a-project)
-  * [Writing a good pull request](#writing-a-good-pull-request)
+   * [Finding where to contribute](#finding-where-to-contribute)
+   * [Forking a project](#forking-a-project)
+   * [Writing a good pull request](#writing-a-good-pull-request)
 
 
 # What is open source software?
