@@ -2,6 +2,9 @@
   <img src=".github/Title.png">
 </center>
 
+### Contents
+1. [What is open source software?](#what-is-open-source-software)
+
 
 # What is open source software?
 _"Open Source"_ refers to something people can modify and share because its design is publicly accessible
@@ -69,6 +72,15 @@ The following are some great places to find some beginner issues:
 
 After finding that golden issue that you hope to start working on, be sure to go and understand some of the code base first.
 
+## Forking a project
+Once you've found the project you want to contribute to you need to _fork_ it.
+> A _fork_ is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+
+The changes you make on your _fork_ can be used to propose changes to the _upstream_ repository.
+
+The _upstream_ repository is the original project that you forked.
+
+
 ### Writing a good pull request
 Writing a good pull request (PR) isn't effortless. Its all about communication. Good pull requests are code proposals that can explain the change to both maintainers and newcomers.
 
@@ -79,7 +91,6 @@ Writing a good pull request (PR) isn't effortless. Its all about communication. 
 * Be clear and concise
 * Keep diffs as small as possible
 
-### Responding to feedback
 Usually, pull requests don't get approved at first glance. Maintainers will often suggest code clean up and changes. Addressing reviewers comments is only way to get your contribution merged.
 
 #### Tips for responding to feedback
@@ -88,9 +99,9 @@ Usually, pull requests don't get approved at first glance. Maintainers will ofte
 * Try to respond to every comment.
 * Offer clarification, explain the decisions you made to reach a solution in question.
 
-Strong Resources on how to write good pull requests:
-* [How to write the perfect pull request (GitHub Blog)](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
-* [The Art of Pull Requests (Hackernoon)](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9)
+#### Resources for writing good pull requests:
+* [How to write the perfect pull request](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/) (GitHub Blog)
+* [The Art of Pull Requests](https://hackernoon.com/the-art-of-pull-requests-6f0f099850f9) (Hackernoon)
 
 
 Tips on responding to feedback
