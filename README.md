@@ -49,7 +49,7 @@ Contributing in open source is a great way to sharpen your skills as a developer
 One way to show that you're well versed in a technology is to show that you've contributed to it. Contributing to widely adopted project can earn you the respect of your colleagues and peers. It might even make you famous.
 
 ### Help you get hired
-Companies hire developers who's experience stands out. Open source contributions stand out as tangible evidence of ones expertise.
+Companies hire developers whose experience stands out. Open source contributions stand out as tangible evidence of one's expertise.
 
 ### Open source internships
 As a student there are some great opportunities to get started in open source. Open source internships pay you to contribute to and maintain a project. Interns often get job opportunities following their work in open source. Here are some great internships in Open Source Software:
