@@ -36,7 +36,7 @@ _"Open Source Software"_ is software with source code that anyone can inspect, m
 * [Kickstarter's iOS app](https://github.com/kickstarter/ios-oss)
 
 ### Why are projects open source?
-Projects become open source for a multitude of reasons. Here is non exhaustive list:
+Projects become open source for a multitude of reasons. Here is a non exhaustive list:
 * **Increase Software Adoption**: Software developers can trust software that they can inspect, modify, and enhance. If a developer trusts a piece of software then they would feel more inclined to use it.  
 * **Increase Software Quality**: Open source software is publicly accessible to the world and encourages collaboration. Since its publicly accessible, bug fixes and security improvements can be implemented by anyone.
 * **Share Progress**: Businesses don't want to solve the same problems over and over. In the software industry, companies open source their software to make it easier for other companies to solve the same problems.
