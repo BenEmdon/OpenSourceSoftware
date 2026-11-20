@@ -1,3 +1,5 @@
+> **Archived in November 2026.** These are notes from a workshop I ran in 2018 to 2020, kept as a snapshot. Some links and examples are dated now, for example Atom, which shut down in 2022.
+
 <center>
   <a href="#">
     <img src=".github/Title.png">
